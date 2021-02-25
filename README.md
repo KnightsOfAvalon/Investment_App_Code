@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+For planning documentation for this app, please see the [planning repository](https://github.com/KnightsOfAvalon/Investment_App_Project_Docs) for this project.
+
 ## Available Scripts
 
 In the project directory, you can run:
